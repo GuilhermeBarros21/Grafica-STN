@@ -2,14 +2,8 @@
   #style.css
 \*-----------------------------------*/
 
-<<<<<<< HEAD
 /**
  */
-=======
-
-
-
->>>>>>> 8fa222495accd66254976446494f53bd8785dd53
 
 /*-----------------------------------*\
   #CUSTOM PROPERTY
@@ -618,9 +612,7 @@ body {
     margin-left: auto;
     margin-right: auto;
   }
-
 }
-
 
 @media (max-width: 900px) {
   .slider {
